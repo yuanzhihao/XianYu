@@ -1,3 +1,3 @@
 # XianYu
 Sale Platform
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MjRm-qUV3hE" frameborder="0" allowfullscreen></iframe>
+If you want to see the vidoe, please click the link https://www.youtube.com/embed/MjRm-qUV3hE
