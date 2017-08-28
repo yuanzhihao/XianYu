@@ -15,4 +15,4 @@ Target platform: iOS 9.0
 
 ### Application setting
 
-If you want to see the vidoe, please click the link https://www.youtube.com/embed/MjRm-qUV3hE
+<If you want to see the vidoe, please click the link https://www.youtube.com/embed/MjRm-qUV3hE>
