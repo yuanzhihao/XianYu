@@ -1,5 +1,5 @@
 # XianYu
-Implement some aspects of a sale platform(XianYu published by Alibaba)
+Implement some aspects of a sale platform (XianYu published by Alibaba)
 
 Development language: Objective-C
 
