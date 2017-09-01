@@ -56,11 +56,25 @@ User can choose photos under number limit by clicking check mark on left top cor
 
 #### Album Picker
 
-<img src="https://github.com/yuanzhihao/XianYu/blob/master/screen-shot-xianyu/album%20picker.png" width="300">
+<img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/album%20picker.png" width="300">
 
 User can choose photos in different albums by switching album.
 
 ### Search item
 
+<figure class="third">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/Search%20Advice.png" width="300">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/Search%20Result-01.png" width="300">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/Search%20Result-03.jpg" width="300">
+</figure>
+
+Search with search advice. When scroll the search results down, the search bar on top would be hidden. Otherwise, it would be shown.
+
 ### Application setting
 
+<figure class="half">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/Not%20Sign%20In.png" width="300">
+  <img src="https://github.com/yuanzhihao/XianYu/blob/raw/screen-shot-xianyu/Not%20Sign%20In%20Setting.png" width="300">
+</figure>
+
+Setting of application is stored in UserDefaults. When entering setting page, the setting would be loaded.
