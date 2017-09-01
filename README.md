@@ -24,7 +24,7 @@ MJRefresh | [An easy way to use pull-to-refresh](https://github.com/CoderMJLee/M
 
 embed add button in tab bar.
 
-### Goods List
+#### Goods List
 
 <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/table%20view.png" width="300">
 
@@ -37,10 +37,30 @@ To improve efficiency of loading cell, I calculate the height of each cell befor
 
 Pull to refresh with animation.
 
+#### Scroll View
+
+<img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/scroll%20view.png" width="300">
+
+Scroll automatically (manually) to display some image
+
 ### Photo Selection
+
+#### Photo Picker
+
+<figure class="half">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/photo%20picker%201.png.jpg" width="300">
+  <img src="https://github.com/yuanzhihao/XianYu/raw/master/screen-shot-xianyu/photo%20picker%202.png" width="300">
+</figure>
+
+User can choose photos under number limit by clicking check mark on left top corner of photo. User can manage his/her choice through the view on bottom. User can click photo to see full size photo.
+
+#### Album Picker
+
+<img src="https://github.com/yuanzhihao/XianYu/blob/master/screen-shot-xianyu/album%20picker.png" width="300">
+
+User can choose photos in different albums by switching album.
 
 ### Search item
 
 ### Application setting
 
-<If you want to see the vidoe, please click the link https://www.youtube.com/embed/MjRm-qUV3hE>
